@@ -1,0 +1,43 @@
+.card {
+    margin-top: 2rem !important;
+    padding: 1rem 2rem !important;
+    background-color: #efefef !important;
+    border-radius: 0.5rem !important;
+    height: 600px;
+}
+.title {
+    color:#328d88;
+    font-size:  2.4rem;
+    margin-bottom: 2rem;
+}
+.location {
+    font-size: 1.4rem;
+    margin-top:  2rem;
+    margin-bottom:  2rem;
+}
+.info{
+    font-size: 1.6rem;
+    color:#f2fa18;
+    margin-bottom: 0.5rem;
+}
+.saletype{
+    font-size: 1.6rem;
+    color:#34eb49;
+    margin-bottom: 0.5rem;
+}
+.sqft{
+    font-size: 1.4rem;
+}
+.link {
+    font-size: 1.0rem;
+    color: #47acaf;
+    padding:0.5rem 1rem;
+    border: 0.1rem solid #47acaf;
+    text-decoration: none;
+    text-align: center;
+}
+.link:hover{
+    color: white;
+    border: 0.1rem solid #47acaf;
+    background-color: #2da123;
+}
